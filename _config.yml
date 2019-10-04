@@ -111,10 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analysis Portfolio"
   location         : "Toronto, ON"
+  email            : "ku.junsu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: ku.junsu@gmail.com
+      # url: ku.junsu@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
