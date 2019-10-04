@@ -110,8 +110,7 @@ author:
   name             : "JunSu Ku"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analysis Portfolio"
-  location         : "Toronto,ON"
-  email            : ""
+  location         : "Toronto, ON"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
