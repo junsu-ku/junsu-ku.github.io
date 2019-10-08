@@ -113,6 +113,12 @@ author:
   location         : "Toronto, ON"
   email            : "ku.junsu@gmail.com"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: www.linkedin.com/in/junsu-ku
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/junsu-ku"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -125,9 +131,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/junsu-ku"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
