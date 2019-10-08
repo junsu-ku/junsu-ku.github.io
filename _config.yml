@@ -115,7 +115,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: www.linkedin.com/in/junsu-ku
+      url: "https://linkedin.com/in/junsu-ku"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/junsu-ku"
