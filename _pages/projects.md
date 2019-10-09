@@ -1,10 +1,12 @@
 ---
-title: "Projects"
+title: "Personal Projects"
 permalink: /projects/
 header:
   image: "/images/header.jpg"
 ---
 
-This is where i will be listing my personal projects.
+1. [*EDA on New York City Airbnb*](https://junsu-ku.github.io/NYC-Airbnb-EDA-in-R/)
+- Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R. Focuses on Visualization of Data to find which attributes of a listing dictates the price.
 
-You can access the projects by clicking the links.
+2. [*Apple Appstore Mobile Games*](https://junsu-ku.github.io/17K-Mobile-Strategy-Games/)
+Exploratory Data Analysis and Data Cleaning performed on the appstore mobile games dataset using R. Focuses on Data Cleaning and Data Manipulation, as well as extracting and sorting relevant data to observe the trend within mobile games industry. 
