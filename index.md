@@ -5,8 +5,6 @@ header:
   image: "/images/header.jpg"
 ---
 
-# Welcome to my Github Page! #
-
 Welcome! This is my own Github Page where I share my personal projects and codes.
 
 My [personal projects](https://junsu-ku.github.io/projects/) related to data analytics and data science are listed below.
