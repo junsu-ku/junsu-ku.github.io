@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-author_profile: true
+header:
+  image: "/images/header.jpg"
 ---
 
 I'm a recent graduate at University of Waterloo, Bachelor of Mathematics with
