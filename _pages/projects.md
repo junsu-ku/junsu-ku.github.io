@@ -5,7 +5,7 @@ header:
   image: "/images/header.jpg"
 ---
 
-1. [EDA on New York City Airbnb](https://junsu-ku.github.io/NYC-Airbnb-EDA-in-R/)
+1. [EDA on New York City Airbnb](/nyc_airbnb/)
 - Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R. Focuses on Visualization of Data to find which attributes of a listing dictate the price.
 
 2. [Apple Appstore Mobile Games](https://junsu-ku.github.io/17K-Mobile-Strategy-Games/)
