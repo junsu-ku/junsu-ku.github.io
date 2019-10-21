@@ -1,8 +1,6 @@
 ---
 title: "Personal Projects"
 permalink: /projects/
-header:
-  image: "/images/header.jpg"
 ---
 
 1. [EDA on New York City Airbnb](/nyc_airbnb/)
