@@ -1,6 +1,8 @@
 ---
 layout: single
 author_profile: true
+header:
+  image: /images/header.jpg
 ---
 
 Welcome! This is my own Github Page where I share my personal projects and codes.
