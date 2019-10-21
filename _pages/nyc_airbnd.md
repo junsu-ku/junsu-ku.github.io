@@ -63,7 +63,7 @@ The price for Airbnbs in New York City is heavily distributed between $70 to $20
 | Queens              | 99.5       | 75           |
 | Staten Island       | 115        | 75           |
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-7-1.png)
 
 Again, prices in each neighbourhood seems to be distributed in between
 $70 to $200 per night. Manhattan holds the highest mean and median price
@@ -83,7 +83,7 @@ but there are few high-end listings offered at a much higher prices.
 | Private Room    | 89.8       | 70           |
 | Shared Room     | 70.1       | 45           |
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-8-1.png)
 
 Again, there seems to be a trend of mean price being greater than median
 price. Renting an entire home or an apartment is more costly, as it
@@ -93,7 +93,7 @@ shared room than the alternatives.
 
 <br/>
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-9-1.png)
 
 Manhattan holds the most number of listings as it is the most busiest
 neighbourhood group, followed by Brooklyn. These two neighbourhood
@@ -104,7 +104,7 @@ visitors. More demand results in more supply and higher prices.
 
 <br/>
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-10-1.png)
 
 Within Manhattan, Harlen neighbourhood holds the most number of
 listings, with quite a bit of difference comparing to the second-most
@@ -113,7 +113,7 @@ distributed amongst top 12 neighourhoods.
 
 <br/>
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-11-1.png)
 
 Within Brooklyn, Williamsburg holds the most listings, closely followed
 by Bedford-Stuyvesant. In Brooklyn, listings appear to be distributed
@@ -122,7 +122,7 @@ holding the majority of the listings in Brooklyn.
 
 <br/>
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-12-1.png)
 
 Now, comparing the top 5 neighbourhoods in each neighbourhood groups,
 surprisingly Williamsburg and Bedford-Stuyvesant contain the most number
@@ -133,7 +133,7 @@ neighbourhoods compared to Brooklyn.
 
 <br/>
 
-![](NYC-Airbnb-rmarkdown_files/figure-markdown_github/unnamed-chunk-13-1.png)
+![](/images/nyc_airbnb/unnamed-chunk-13-1.png)
 
 We see that majority of listings, almost 61 percent, in Manhattan are
 offered as entire home or apartment. This is very unique and supports
