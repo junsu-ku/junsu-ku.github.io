@@ -1,11 +1,7 @@
 ---
 title: "About June"
 permalink: /about/
-icon: "/images/student orig.png"
 ---
-
-<br/>
-
 
 
 ![profile pic](/images/profile pic.jpg)
