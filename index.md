@@ -19,4 +19,4 @@ If you wish to learn more about myself, please click 'About June' image.
 
 
 
-[![about image](/images/about.png)](/about/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![projects image](/images/project.png)](/projects/)
+[![about image](/images/about.png)](/about/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![projects image](/images/project.png)](/projects/)
