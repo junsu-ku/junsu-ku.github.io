@@ -6,10 +6,17 @@ header:
 ---
 
 
-Welcome!
+Welcome to June's Github Page!
 
 
-[![about image](/images/about.png)](/about/)
+This is my Github Page published to showcase my data analysis portfolio.
+
+On this website, you will find my data analysis projects in R and Python. You can navigate to the projects page by clicking on the image below.
+
+If you wish to learn more about myself, please click 'About June' image.
+
+<br/>
 
 
-[![projects image](/images/project.png)](/projects/)
+
+[![about image](/images/about.png)](/about/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![projects image](/images/project.png)](/projects/)

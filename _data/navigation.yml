@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Personal Projects"
+  - title: "Projects"
     url: /projects/
   # - title: "Sitemap"
   #   url: /sitemap/
