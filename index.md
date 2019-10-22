@@ -11,9 +11,9 @@ header:
 
 This is my Github Page published to showcase my data analysis portfolio.
 
-On this website, you will find my data analysis projects in R and Python. You can navigate to the projects page by clicking on the **'Projects'** image below.
+On this website, you will find my data analysis projects in R and Python. You can navigate to the projects page by clicking on the [**'Projects'**](/projects/) image below.
 
-If you wish to learn more about myself, please click **'About June'** image.
+If you wish to learn more about myself, please click [**'About June'**](/about/) image.
 
 <br/>
 
