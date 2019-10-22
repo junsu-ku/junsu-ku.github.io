@@ -10,13 +10,17 @@ __R__
 -----
 
 &ensp; New York City Airbnb Dataset
-&ensp;&ensp; * [Exploratory Data Analysis](/nyc_airbnb/)
-&ensp;&ensp; > Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
-&ensp;&ensp; > Focuses on Visualization of Data to find which attributes of a listing dictate the price.
 
-&ensp;&ensp; * [NYC Airbnb listing Shiny App](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/)
-&ensp;&ensp; > Interactive Table Viewer for New York City Airbnb Dataset.
-&ensp;&ensp; > Apply filters to sort through the dataset and download a copy of the table.
+&ensp;&ensp; - [Exploratory Data Analysis](/nyc_airbnb/)
+
+> Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
+> Focuses on Visualization of Data to find which attributes of a listing dictate the price.
+
+&ensp;&ensp; - [NYC Airbnb listing Shiny App](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/)
+>>> Interactive Table Viewer for New York City Airbnb Dataset.
+>>>> Apply filters to sort through the dataset and download a copy of the table.
+
+-----
 
 1. [EDA on New York City Airbnb](/nyc_airbnb/)
 - Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R. Focuses on Visualization of Data to find which attributes of a listing dictate the price.
