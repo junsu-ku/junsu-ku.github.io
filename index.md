@@ -9,7 +9,7 @@ header:
 Welcome!
 
 
-![about image](/images/about.png) ![projects image](/images/project.png)
+[![about image](/images/about.png)](/about/)
 
 
-[about](/about/) [project](/projects/)
+[![projects image](/images/project.png)](/projects/)
