@@ -3,21 +3,21 @@ title: " "
 permalink: /projects/
 ---
 
-![](/images/project icon.png) # Projects
+![](/images/project icon.png) __Projects__
 <br/>
 
 __R__
 -----
 
-New York City Airbnb Dataset
+__New York City Airbnb Dataset__
 
-⋅⋅* [Exploratory Data Analysis](/nyc_airbnb/)
-⋅⋅⋅Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
-⋅⋅⋅Focuses on Visualization of Data to find which attributes of a listing dictate the price.
+[Exploratory Data Analysis](/nyc_airbnb/)
+> Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
+> Focuses on Visualization of Data to find which attributes of a listing dictate the price.
 
-⋅⋅* [NYC Airbnb listing Shiny App](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/)
-⋅⋅⋅Interactive Table Viewer for New York City Airbnb Dataset.
-⋅⋅⋅Apply filters to sort through the dataset and download a copy of the table.
+[NYC Airbnb listing Shiny App](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/)
+> Interactive Table Viewer for New York City Airbnb Dataset.
+> Apply filters to sort through the dataset and download a copy of the table.
 
 -----
 
