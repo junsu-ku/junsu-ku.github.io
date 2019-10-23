@@ -3,8 +3,7 @@ title: " "
 permalink: /projects/
 ---
 
-![](/images/project icon.png)
-# Projects
+![](/images/project icon.png) # Projects
 <br/>
 
 __R__
