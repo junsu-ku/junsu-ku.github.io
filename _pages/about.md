@@ -1,5 +1,5 @@
 ---
-title: "About Jordan"
+title: "About Jordan         ![](/images/about/about icon.png)"
 permalink: /about/
 ---
 

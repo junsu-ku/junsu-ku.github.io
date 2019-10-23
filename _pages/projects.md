@@ -1,15 +1,14 @@
 ---
-title: "Projects ![](/images/project icon.png)"
+title: "Projects         ![](/images/projects/project icon.png)"
 permalink: /projects/
 ---
 
-__Projects__ &emsp;&emsp; ![](/images/project icon.png) 
 <br/>
 
-__R__
+__R Projects__    
 -----
 
-__New York City Airbnb Dataset__
+# New York City Airbnb Dataset
 
 [Exploratory Data Analysis](/nyc_airbnb/)
 > Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
