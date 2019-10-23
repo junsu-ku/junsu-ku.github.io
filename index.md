@@ -2,21 +2,21 @@
 layout: single
 author_profile: true
 header:
-  image: /images/header.jpg
+  image: /images/main/header.jpg
 ---
 
 
-**Welcome to June's Github Page!**
+**Welcome to Jordan's Github Page!**
 
 
 This is my Github Page published to showcase my data analysis portfolio.
 
 On this website, you will find my data analysis projects in R and Python. You can navigate to the projects page by clicking on the [**'Projects'**](/projects/) image below.
 
-If you wish to learn more about myself, please click [**'About June'**](/about/) image.
+If you wish to learn more about myself, please click [**'About Jordan'**](/about/) image.
 
 <br/>
 
 
 
-[![about image](/images/about.png)](/about/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![projects image](/images/project.png)](/projects/)
+[![about image](/images/main/about.png)](/about/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![projects image](/images/main/project.png)](/projects/)

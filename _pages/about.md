@@ -1,15 +1,15 @@
 ---
-title: "About June"
+title: "About Jordan"
 permalink: /about/
 ---
 
 
-![profile pic](/images/profile pic.jpg)
+![profile pic](/images/about/profile pic.jpg)
 
 
 
 
-My name is June JunSu Ku and I am a recent graduate at University of Waterloo, Bachelor of Mathematics with
+My name is Jordan JunSu Ku and I am a recent graduate at University of Waterloo, Bachelor of Mathematics with
 major in Statistics.
 
 My data analysis experience began with statistical computing in __*R*__. I am very familiar with R Studio and data handling packages such as __*dplyr, ggplot2, plotly*__ and __*car*__. I am also experienced with building interactive applications with __*R Shiny*__ to visualize and communicate data.

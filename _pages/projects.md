@@ -1,9 +1,10 @@
 ---
-title: "Projects"
+title: " "
 permalink: /projects/
 ---
 
-
+![](/images/project icon.png)
+# Projects
 <br/>
 
 __R__
@@ -11,20 +12,12 @@ __R__
 
 New York City Airbnb Dataset
 
-&ensp;
-- [Exploratory Data Analysis](/nyc_airbnb/)
-
+⋅⋅* [Exploratory Data Analysis](/nyc_airbnb/)
 ⋅⋅⋅Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
-
 ⋅⋅⋅Focuses on Visualization of Data to find which attributes of a listing dictate the price.
 
-<br/>
-
-&ensp;
-- [NYC Airbnb listing Shiny App](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/)
-
+⋅⋅* [NYC Airbnb listing Shiny App](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/)
 ⋅⋅⋅Interactive Table Viewer for New York City Airbnb Dataset.
-
 ⋅⋅⋅Apply filters to sort through the dataset and download a copy of the table.
 
 -----

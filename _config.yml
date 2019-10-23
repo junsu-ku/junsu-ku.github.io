@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "June JunSu Ku - Data Analysis Portfolio"
+title                    : "Jordan JunSu Ku - Data Analysis Portfolio"
 title_separator          : "-"
 subtitle                 : "Welcome to June's Github Page!"
-name                     : "June JunSu Ku"
+name                     : "Jordan JunSu Ku"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "June JunSu Ku"
+  name             : "Jordan JunSu Ku"
   avatar           : "/images/astronaut.png"
   bio              : "Recent Graduate at University of Waterloo, Honours Statistics"
   location         : "Toronto, ON"
