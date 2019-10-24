@@ -1,5 +1,5 @@
 ---
-title: "![](/images/projects/project icon.png) &nbsp;&nbsp;&nbsp; Projects"
+title: "![](/images/projects/project icon.png) &nbsp;&nbsp; Projects"
 permalink: /projects/
 ---
 __R Projects__    
@@ -17,6 +17,8 @@ __R Projects__
 
 -----
 
+# Apple Appstore Mobile Games Dataset
 
-2. [Apple Appstore Mobile Games](https://junsu-ku.github.io/17K-Mobile-Strategy-Games/)
-- Exploratory Data Analysis and Data Cleaning performed on the appstore mobile games dataset using R. Focuses on Data Cleaning and Data Manipulation, as well as extracting and sorting relevant data to observe the trend within mobile games industry.
+[Apple Appstore Mobile Games](/appstore/)
+> Exploratory Data Analysis and Data Cleaning performed on the appstore mobile games dataset using R.
+> Focuses on Data Cleaning and Data Manipulation, as well as extracting and sorting relevant data to observe the trend within mobile games industry.
