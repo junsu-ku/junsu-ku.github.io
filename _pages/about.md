@@ -8,7 +8,7 @@ permalink: /about/
 
 
 
-My name is Jordan __JunSu Ku__ and I am a recent graduate at __University of Waterloo, Bachelor of Mathematics with
+My name is __Jordan JunSu Ku__ and I am a recent graduate at __University of Waterloo, Bachelor of Mathematics with
 major in Statistics__.
 
 My data analysis experience began with statistical computing in __*R*__. I am very familiar with R Studio and data handling packages such as __*dplyr, ggplot2, plotly*__ and __*car*__. I am also experienced with building interactive applications with __*R Shiny*__ to visualize and communicate data.
@@ -19,8 +19,6 @@ I am currently looking for opportunities to apply data analysis in real-time dat
 
 Thank you!
 
-
-<br/>
 <br/>
 
 [![](/images/source/main button.png)](https://junsu-ku.github.io) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](/images/source/projects button.png)](/projects/)
