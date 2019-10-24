@@ -30,5 +30,4 @@ __R Projects__
 <br/>
 <br/>
 
-
-[![](/images/source/button.png)](https://junsu-ku.github.io)
+[![](/images/source/main button.png)](https://junsu-ku.github.io) &nbsp;&nbsp;&nbsp; [![](/images/source/about button.png)](/about/)

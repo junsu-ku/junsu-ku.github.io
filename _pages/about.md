@@ -18,3 +18,11 @@ My interest in data analysis focuses on __*Exploratory Data Analysis, Data Clean
 I am currently looking for opportunities to apply data analysis in real-time data with real business impact.
 
 Thank you!
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![](/images/source/main button.png)](https://junsu-ku.github.io) &nbsp;&nbsp;&nbsp; [![](/images/source/projects button.png)](/projects/)
