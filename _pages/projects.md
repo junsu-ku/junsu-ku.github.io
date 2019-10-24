@@ -1,5 +1,5 @@
 ---
-title: "Projects         ![](/images/projects/project icon.png)"
+title: "![](/images/projects/project icon.png) &nbsp;&nbsp;&nbsp; Projects"
 permalink: /projects/
 ---
 __R Projects__    
