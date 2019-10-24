@@ -2,9 +2,6 @@
 title: "Projects         ![](/images/projects/project icon.png)"
 permalink: /projects/
 ---
-
-<br/>
-
 __R Projects__    
 -----
 
