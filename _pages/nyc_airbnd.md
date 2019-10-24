@@ -11,6 +11,8 @@ header:
 Introduction
 ------------
 
+![](/images/nyc_airbnb/intro.jpg)
+
 Airbnb is an online platform for arranging lodging, homestays or tourism experiences. Acting as an online broker, Airbnb allows hosts to offer their real estate listings on their platform and users can easily book their stay for their next travel destinations.
 
 The New York City Airbnb dataset was found on [Kaggle.com](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) and it contains Airbnb listings of New York City with 48895 observations and 16

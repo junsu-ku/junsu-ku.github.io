@@ -17,7 +17,7 @@ __R Projects__
 
 -----
 
-# Apple Appstore Mobile Games Dataset
+# Appstore Mobile Games Dataset
 
 [Apple Appstore Mobile Games](/appstore/)
 > Exploratory Data Analysis and Data Cleaning performed on the appstore mobile games dataset using R.

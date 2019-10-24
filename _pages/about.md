@@ -2,8 +2,7 @@
 title: "![](/images/about/about icon.png)  &nbsp;&nbsp;  About Jordan"
 permalink: /about/
 ---
-
-
+<br/>
 ![profile pic](/images/about/profile pic.jpg)
 
 
