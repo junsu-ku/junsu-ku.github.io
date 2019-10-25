@@ -6,7 +6,7 @@ header:
 ---
 
 
-**Welcome to Jordan's Github Page!**  &nbsp;&nbsp;&nbsp;&nbsp; ![](/images/source/icon2.png)
+**Welcome to Jordan's Github Page!**
 
 
 This is my Github Page published to showcase my data analysis portfolio.
