@@ -42,8 +42,8 @@ Listing Viewer via R Shiny App
 ------------------------------
 I have created an interactive viewer of the listings which allows you to apply filters to easily sort through the data. You can also download the filtered table through this shiny app viewer.
 
-[New York City Airbnb Listing Viewer](https://junsu-ku.shinyapps.io/listing_viewer_shiny_app/).
-![](/images/nyc_airbnb/shiny_app.PNG)
+[New York City Airbnb Listing Viewer](https://junsu-ku.shinyapps.io/NYC_Airbnb_Listing_Dashboard/).
+[![](/images/nyc_airbnb/shiny_app.PNG)](https://junsu-ku.shinyapps.io/NYC_Airbnb_Listing_Dashboard/)
 
 <br/>
 <br/>
