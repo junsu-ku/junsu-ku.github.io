@@ -4,5 +4,5 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resume"
+    url: <a href="/files/Jordan JunSu Ku - Resume.pdf" target="_blank">PDF.</a>
