@@ -20,7 +20,6 @@ I am currently looking for opportunities to apply data analysis in real-time dat
 Thank you!
 
 <br/>
-<br/>
 
 <a href="/files/Jordan JunSu Ku - Resume.pdf" download>Download My Resume</a>
 
