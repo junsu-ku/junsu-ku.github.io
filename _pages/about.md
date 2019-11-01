@@ -17,6 +17,8 @@ My interest in data analysis focuses on __*Exploratory Data Analysis, Data Clean
 
 I am currently looking for opportunities to apply data analysis in real-time data with real business impact.
 
+You can also download my resume. <a href="/files/Jordan JunSu Ku - Resume.pdf" download>Download My Resume</a>
+
 Thank you!
 
 <br/>
