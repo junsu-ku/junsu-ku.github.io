@@ -11,7 +11,7 @@ __R Projects__
 > Seoul Air Quality Index data visualized through interactive dashboard developed using Shiny.
 > Includes mapping and plots of AQI measures across 25 districts in Seoul, South Korea.
 
-[![](/images/projects/seoul_preview_1.png)](https://junsu-ku.shinyapps.io/Seoul_Air_Quality_Index_Dashboard/) &nbsp; [![](/images/projects/seoul_preview_2.png)](https://junsu-ku.shinyapps.io/Seoul_Air_Quality_Index_Dashboard/)
+![](/images/projects/seoul_preview_1.png) &nbsp; ![](/images/projects/seoul_preview_2.png)
 
 
 <br/>
@@ -25,13 +25,13 @@ __R Projects__
 > Exploratory Data Analysis and Data Manipulation performed on the New York City Airbnb dataset using R.
 > Focuses on Visualization of Data to find which attributes of a listing dictate the price.
 
-[![](/images/projects/nyc_airbnb_eda_preview.png)](/nyc_airbnb/)
+![](/images/projects/nyc_airbnb_eda_preview.png)
 
 [Interactive Dashboard](https://junsu-ku.shinyapps.io/NYC_Airbnb_Listing_Dashboard/)
 > Interactive map and table of listings in New York City Airbnb data.
 > Filter through the dataset to view details of each listing as well as geographical location.
 
-[![](/images/projects/nyc_airbnb_dashboard_preview.png)](https://junsu-ku.shinyapps.io/NYC_Airbnb_Listing_Dashboard/)
+![](/images/projects/nyc_airbnb_dashboard_preview.png)
 
 <br/>
 
